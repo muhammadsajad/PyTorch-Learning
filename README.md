@@ -1,2 +1,21 @@
-# PyTorch-Learning
-My PyTorch learning journey 🚀 This repository contains Jupyter notebooks where I practice PyTorch, Deep Learning, neural networks, tensors, autograd, optimization, model training, and evaluation. I’m documenting my progress and learning by implementing concepts through practical examples.
+# PyTorch Learning Journey 🚀
+
+This repository contains my learning journey with **PyTorch** and Deep Learning. I am using this repository to practice concepts, implement models, and document my progress through Jupyter notebooks.
+
+### 📚 What you will find here
+
+* PyTorch fundamentals
+* Tensors and tensor operations
+* Automatic differentiation and gradients
+* Neural networks and model building
+* Forward and backward propagation
+* Loss functions and optimizers
+* Gradient Descent
+* Model training and evaluation
+* Classification and regression
+* Deep Learning experiments
+* Practical exercises and implementations
+
+I will continue adding notebooks as I learn and explore new concepts in PyTorch.
+
+**Learning by doing, one notebook at a time. 💻🔥**
