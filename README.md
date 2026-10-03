@@ -18,4 +18,4 @@ This repository contains my learning journey with **PyTorch** and Deep Learning.
 
 I will continue adding notebooks as I learn and explore new concepts in PyTorch.
 
-**Learning by doing, one notebook at a time. 💻🔥**
+**Learning by doing, one notebook at a time. Thanks to @CampusX 💻🔥**
